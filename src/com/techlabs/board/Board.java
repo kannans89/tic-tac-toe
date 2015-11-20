@@ -100,6 +100,7 @@ public class Board {
 			}
 		}
 
+              //remove comments
 		/*
 		 * if ((board[0][0] == currentPlayer.getSign()) && (board[0][1] ==
 		 * currentPlayer.getSign()) && (board[0][2]) == currentPlayer.getSign())
